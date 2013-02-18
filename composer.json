@@ -21,16 +21,11 @@
 	"version": "dev-master",
 	
 	"repositories": [
-                {
-                        "type": "vcs",
-                        "url": "https://github.com/Konafets/installers.git"
-                }
-        ],
+	],
 
 	"require": {
 		"php": ">=5.2.1",
-		"squizlabs/php_codesniffer": "*",
-		"composer/installers": "dev-phpcsStandardInstaller"
+		"squizlabs/php_codesniffer": "*"
 	},
 
 	"support": {
